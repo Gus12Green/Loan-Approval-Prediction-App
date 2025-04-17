@@ -98,7 +98,7 @@ Click **Predict Loan Status**, and the app will show whether the loan would be a
 
 ## 👨‍💻 Author
 
-Created with care and curiosity by [Agustin Gorrin].  
+Created with care and curiosity by Agustin Gorrin.  
 This project is part of my data analytics and machine learning portfolio.
 
 ---
