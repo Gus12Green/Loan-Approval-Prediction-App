@@ -14,7 +14,7 @@ The goal is to demonstrate how machine learning can assist financial institution
 
 The dataset used to train this model was obtained from Kaggle:
 
-🔗 [Loan Approval Prediction Dataset on Kaggle](https://www.kaggle.com/datasets/itsmesunil/bank-loan-modelling)
+🔗 [Loan Approval Prediction Dataset on Kaggle](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset)
 
 ---
 
