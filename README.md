@@ -86,9 +86,11 @@ Click **Predict Loan Status**, and the app will show whether the loan would be a
 
 ## 📁 Files in this project
 
-- `app.py`: Main Streamlit application.
+- `loan_predictor_app.py`: Main Streamlit application.
 - `loan_approval_model.pkl`: Trained ensemble model.
 - `scaler.pkl`: Scaler used during training (to ensure consistent input processing).
+- `loan_approval_dataset.csv`: Original dataset used to train the model.
+- `loan_predictor.ipynb`: Jupyter notebook used for data exploration, model training and evaluation.
 - `requirements.txt`: List of dependencies.
 - `README.md`: You’re reading it!
 
