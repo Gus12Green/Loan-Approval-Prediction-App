@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 ### Step 4: Run the app
 ```bash
-streamlit run app.py
+streamlit run loan_predictor_app.py
 ```
 
 Your browser will open a local server where you can interact with the loan prediction form.
