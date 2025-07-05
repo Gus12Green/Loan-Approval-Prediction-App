@@ -6,7 +6,7 @@ This is a web-based application that allows users to simulate a loan application
 
 This project uses a classification model to determine the outcome of a loan request based on several applicant features such as income, credit score, assets, and employment status.
 
-The goal is to demonstrate how machine learning can assist financial institutions in automating decision-making processes—and also serve as a professional portfolio project.
+The goal is to demonstrate how machine learning can assist financial institutions in automating decision-making processes and also serve as a professional portfolio project.
 
 ---
 
